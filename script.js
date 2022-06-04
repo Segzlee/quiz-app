@@ -594,7 +594,7 @@ function loseOrWin(color, score, option) {
       });
 
       myClick();
-    }, 1000);
+    }, 1500);
   } else if (played.length === 30) {
     option.style.background = color;
     options.forEach((opt) => {

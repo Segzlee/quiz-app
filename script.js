@@ -502,7 +502,7 @@ let quiz = [
       "Help me tell Diana something, Diana say she no longer want me...If you leave me na felony, If you leave me na apology",
     answer: "Buju",
     a: "Rema",
-    b: "Wiazkid",
+    b: "Wizkid",
     c: "Buju",
     d: "Fireboy DML",
   },
